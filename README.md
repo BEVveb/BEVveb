@@ -43,7 +43,7 @@ I am a **Cybersecurity Master’s student at the University of Birmingham**, wit
 
 ## Projects
 
-### SozoTech Collaborative Brainstorming Platform &nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_USERNAME/YOUR_PROJECT_NAME](https://github.com/SozoTech-HWU-Y3))
+### SozoTech Collaborative Brainstorming Platform &nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SozoTech-HWU-Y3)
 *	A project to create a collaborative platform (such as Microsoft Teams) from scratch. In addition, create an ad campaign prototype with a company website (https://sozotech.vercel.app), Instagram page and ext.
 *	Implemented front end interface of the web application and company website using Tailwind CSS, JavaScript and NodeJS
 *	Developed work plan for the project and played a crucial role in every aspect of development, ensuring that each stage was developed on time.

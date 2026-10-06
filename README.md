@@ -26,7 +26,7 @@ I am a **Cybersecurity Master’s student at the University of Birmingham**, wit
 
 ## Education
 
-* **10/2025 - Present: MSc Cyber Security, University of Birmingham Dubai**
+* **10/2025 - 11/2026: MSc Cyber Security, University of Birmingham Dubai**
 * **09/2022 - 06/2025: BSc (Hons) Computer Science (Cyber Security), Heriot-Watt University Dubai**
 
 ---
@@ -57,9 +57,10 @@ I am a **Cybersecurity Master’s student at the University of Birmingham**, wit
 *	Deployed a TensorFlow Lite model directly onto the Arduino Board for real-time inference and implemented a Bluetooth Low Energy (BLE) service to transmit the recognised punch data to the Android application.
 > **Tech:** Git, Arduino IDE, Jupyter Notebook, TensorFlow, C, Python
 
-### Quantum Circuit Simulator
-* Leveraged Qiskit programming course to design and deploy several quantum circuits, executing them on real-hardware backends via IBM Cloud Quantum Computers
-* Simulated quantum-based brute force attacks using Grover's Algorithm to demonstrate theoretical vulnerabilities, specifically targeting Toy MD5 and Toy DES implementations.
-* Demonstrated how quantum search algorithms provide a quadratic speedup to the attacks, whilst working with noisy qubits.
+### Detecting Partial Eavesdropping via BB84, B92, and E91 QKD Protocols Under Quantum Hardware Noise
+*	Modelled and simulated how real-world hardware noise impacts the security of BB84, B92, and E91 Quantum Key Distribution (QKD) protocols. 
+*	Deployed custom quantum circuits to IBM hardware backends, scaling qubit counts to test how system scalability impacts the Quantum Bit Error Rate (QBER) in naturally noisy environments.
+*	Quantified the threshold at which Meet-in-the-Middle (MITM) attacks can bypass QBER detection, benchmarking each protocol’s resilience against hardware-induced errors and successful secret key generation rates.
+
 > **Tech:** Python, Qiskit, Jupyter Notebooks
 

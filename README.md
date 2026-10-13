@@ -58,6 +58,7 @@ I am a **Cybersecurity Master’s student at the University of Birmingham**, wit
 > **Tech:** Git, Arduino IDE, Jupyter Notebook, TensorFlow, C, Python
 
 ### Detecting Partial Eavesdropping via BB84, B92, and E91 QKD Protocols Under Quantum Hardware Noise
+* **WILL BE UPLOADED ONCE DIPLOMA RESULTS ARE VERIFIED BY UNIVERSITY**
 *	Modelled and simulated how real-world hardware noise impacts the security of BB84, B92, and E91 Quantum Key Distribution (QKD) protocols. 
 *	Deployed custom quantum circuits to IBM hardware backends, scaling qubit counts to test how system scalability impacts the Quantum Bit Error Rate (QBER) in naturally noisy environments.
 *	Quantified the threshold at which Meet-in-the-Middle (MITM) attacks can bypass QBER detection, benchmarking each protocol’s resilience against hardware-induced errors and successful secret key generation rates.

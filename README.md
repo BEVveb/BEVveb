@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:023e8a,100:0096c7&height=180&section=header&text=Bogdan%20Egorov&fontSize=70&fontAlignY=40&desc=MSc%20Cybersecurity%20Student%20@%20University%20of%20Birmingham&descSize=20&descAlignY=70&animation=none&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:023e8a,100:0096c7&height=180&section=header&text=Bogdan%20Egorov&fontSize=70&fontAlignY=40&desc=MSc%20Cybersecurity%20Graduate%20@%20University%20of%20Birmingham&descSize=20&descAlignY=70&animation=none&fontColor=ffffff" width="100%" />
 
   <p align="center">
     <br />
-    <h3>Digital Forensics | (Post-)Quantum Cryptography | Security Applications</h3>
+    <h3>Quantum Computing | (Post-)Quantum Cryptography | Security Applications</h3>
     <br />
     <a href="mailto:egorovb2003@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -17,7 +17,7 @@
 ## About Me
 
 Hello, I'm Bogdan Egorov, \
-I am a **Cybersecurity Master’s student at the University of Birmingham**, with a profound interest in academic research and everything security-related. 
+I am a **Cybersecurity Master’s graduate from the University of Birmingham**, with a profound interest in academic research and everything security-related. 
 
 * **My Passion:** Building robust, secure systems and leveraging programmatic solutions to solve complex security vulnerabilities.
 * **My Interest:** I am a dedicated quantum computing and cryptography enthusiast, driven by the immense potential of quantum computing.
@@ -43,12 +43,17 @@ I am a **Cybersecurity Master’s student at the University of Birmingham**, wit
 
 ## Projects
 
-### SozoTech Collaborative Brainstorming Platform &nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SozoTech-HWU-Y3)
-*	A project to create a collaborative platform (such as Microsoft Teams) from scratch. In addition, create an ad campaign prototype with a company website (https://sozotech.vercel.app), Instagram page and ext.
-*	Implemented front end interface of the web application and company website using Tailwind CSS, JavaScript and NodeJS
-*	Developed work plan for the project and played a crucial role in every aspect of development, ensuring that each stage was developed on time.
-*	Monitored progress and made necessary adjustments in coordination with Project Manager and team members
-> **Tech:** Git, TailwindCSS, JavaScript, NodeJS
+### Quantum-Optimized Biomarker Discovery for Lung Adenocarcinoma &nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanizzath/QAOA-LUAD-Biomarker-Selection/tree/main)
+*	Built and executed the Quantum Approximate Optimisation Algorithm (QAOA) pipeline across both ideal local quantum simulators and real IBM Quantum hardware backends.
+*	Evaluated algorithm convergence, solution fidelity, and feature selection performance under backend hardware noise versus ideal statevector simulations.
+> **Tech:** Python, Qiskit, Jupyter Notebooks
+
+### Detecting Partial Eavesdropping in QKD: A Comparative Evaluation of BB84, B92, and E91 on Superconducting Quantum Processors
+* Awarded MSc Dissertation Distinction [**PUBLICATION UNDER REVIEW**]
+*	Modelled and simulated how real-world hardware noise impacts the security of BB84, B92, and E91 Quantum Key Distribution (QKD) protocols. 
+*	Deployed custom quantum circuits to IBM hardware backends, scaling qubit counts to test how system scalability impacts the Quantum Bit Error Rate (QBER) in naturally noisy environments.
+*	Quantified the threshold at which Meet-in-the-Middle (MITM) attacks can bypass QBER detection, benchmarking each protocol’s resilience against hardware-induced errors and successful secret key generation rates.
+> **Tech:** Python, Qiskit, Jupyter Notebooks
 
 ### Boxing Training Guide Android Application &nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WeBox-BHAM)
 *	An Android application dedicated to being used during boxing training as a guide. An Arduino Nano 33 BLE is worn on a wrist and is used to recognise 3 distinct punches - jab, uppercut and rear hook. 
@@ -57,11 +62,10 @@ I am a **Cybersecurity Master’s student at the University of Birmingham**, wit
 *	Deployed a TensorFlow Lite model directly onto the Arduino Board for real-time inference and implemented a Bluetooth Low Energy (BLE) service to transmit the recognised punch data to the Android application.
 > **Tech:** Git, Arduino IDE, Jupyter Notebook, TensorFlow, C, Python
 
-### Detecting Partial Eavesdropping via BB84, B92, and E91 QKD Protocols Under Quantum Hardware Noise
-* **WILL BE UPLOADED ONCE DIPLOMA RESULTS ARE VERIFIED BY UNIVERSITY**
-*	Modelled and simulated how real-world hardware noise impacts the security of BB84, B92, and E91 Quantum Key Distribution (QKD) protocols. 
-*	Deployed custom quantum circuits to IBM hardware backends, scaling qubit counts to test how system scalability impacts the Quantum Bit Error Rate (QBER) in naturally noisy environments.
-*	Quantified the threshold at which Meet-in-the-Middle (MITM) attacks can bypass QBER detection, benchmarking each protocol’s resilience against hardware-induced errors and successful secret key generation rates.
-
-> **Tech:** Python, Qiskit, Jupyter Notebooks
+### SozoTech Collaborative Brainstorming Platform &nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SozoTech-HWU-Y3)
+*	A project to create a collaborative platform (such as Microsoft Teams) from scratch. In addition, create an ad campaign prototype with a company website (https://sozotech.vercel.app), Instagram page and ext.
+*	Implemented front end interface of the web application and company website using Tailwind CSS, JavaScript and NodeJS
+*	Developed work plan for the project and played a crucial role in every aspect of development, ensuring that each stage was developed on time.
+*	Monitored progress and made necessary adjustments in coordination with Project Manager and team members
+> **Tech:** Git, TailwindCSS, JavaScript, NodeJS
 

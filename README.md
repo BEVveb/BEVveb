@@ -26,8 +26,8 @@ I am a **Cybersecurity Master’s graduate from the University of Birmingham**, 
 
 ## Education
 
-* **10/2025 - 11/2026: MSc Cyber Security, University of Birmingham Dubai**
-* **09/2022 - 06/2025: BSc (Hons) Computer Science (Cyber Security), Heriot-Watt University Dubai**
+* **10/2025 - 11/2026: MSc Cyber Security, University of Birmingham (Dubai Campus)**
+* **09/2022 - 06/2025: BSc (Hons) Computer Science (Cyber Security), Heriot-Watt University (Dubai Campus)**
 
 ---
 

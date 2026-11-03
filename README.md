@@ -44,6 +44,7 @@ I am a **Cybersecurity Master’s graduate from the University of Birmingham**, 
 ## Projects
 
 ### Quantum-Optimized Biomarker Discovery for Lung Adenocarcinoma &nbsp; [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irfanizzath/QAOA-LUAD-Biomarker-Selection/tree/main)
+* **Achieved 1st place out of 16 competing teams [Gene42]**
 * Developed for the IBM Quantum Fall Fest (Quantum Biology Challenge, hosted by Khalifa University)
 *	Built and executed the Quantum Approximate Optimisation Algorithm (QAOA) pipeline across both ideal local quantum simulators and real IBM Quantum hardware backends.
 *	Evaluated algorithm convergence, solution fidelity, and feature selection performance under backend hardware noise versus ideal statevector simulations.
